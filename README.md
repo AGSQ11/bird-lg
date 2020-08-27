@@ -3,6 +3,11 @@ This is a slightly improved version of bird-lg: https://github.com/sileht/bird-l
 <br/>
 <hr/>
 <br/>
+<h3>Demo:</h3>
+You can see a live demo of this bird looking glass script at: <a href="http://lg.ropnix.com"/>lg.ropnix.com</a>.
+<br/>
+<hr/>
+<br/>
 
 <b>Changelog</b>:
 * Added the "import" section for each BGP protocol
