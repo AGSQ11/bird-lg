@@ -1,6 +1,8 @@
 <h2>Python Bird Looking Glass</h2>
 This is a slightly improved version of bird-lg: https://github.com/sileht/bird-lg
-
+<br/>
+<hr/>
+<br/>
 
 <b>Changelog</b>:
 * Added the "import" section for each BGP protocol
