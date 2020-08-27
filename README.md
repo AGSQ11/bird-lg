@@ -1,9 +1,8 @@
-# bird-lg
-Improved Python Bird Looking Glass
+<h2>Python Bird Looking Glass</h2>
 
 Fork of: https://github.com/sileht/bird-lg
 
-Changelog:
+<b>Changelog</b>:
 * Added the "import" section for each BGP protocol
 * Added the "export" section for each BGP protocol
 * Added the "best" section for each BGP protocol
